@@ -1,0 +1,22 @@
+{ "display": 
+  { "firstperson_lefthand": 
+    { "translation": [-2,4,9]
+    , "scale": [1.5,1.5,1]
+    , "rotation": [0,-15,0]
+    }
+  , "thirdperson_lefthand": 
+    { "translation": [-4,2,6.5]
+    , "rotation": [22,-60,4]
+    }
+  , "thirdperson_righthand": 
+    { "translation": [-3,-7.5,4]
+    , "rotation": [22,-60,-176]
+    }
+  , "firstperson_righthand": 
+    { "translation": [-2,-11,9]
+    , "scale": [1.5,1.5,1]
+    , "rotation": [0,-15,-180]
+    }
+  }
+, "parent": "./shield-aspis"
+}
